@@ -1,0 +1,3 @@
+The files you supplied are Java Spring controller classes; they do not contain a React component for **`products.jsp`**, so there is no JSX/TSX code in which to add an export statement or convert `<c:forEach>` / `<ui:repeat>` loops to `.map()` calls.
+
+**Result:** No React component code is available to apply the requested fixes. If you provide the generated React component source (the `.tsx` or `.jsx` file), I can correct the missing export and replace the server‑side loops with proper `.map()` usage.
